@@ -1,4 +1,3 @@
-````markdown
 # Production AI Todo Assistant
 
 This project is a production-ready AI-powered Todo Assistant developed using Python and Flask. It started as a simple Todo API and was gradually improved by adding AI reasoning, context management, confidence evaluation, source tracking, error handling, and production validation.
